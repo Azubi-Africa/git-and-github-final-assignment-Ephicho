@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Machine Learning           |  simple Machine learning           | https://github.com/Ephicho/Machine_Learning.git       |
+| 2 |  simple encryption           |  simple caesar encryption         | https://github.com/Ephicho/Simple_Encryption.git      |
+| 3 |  Guessing_Number             |  simple guessing code           | https://github.com/Ephicho/Guessing_Number.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
